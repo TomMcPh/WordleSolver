@@ -52,7 +52,7 @@ memory6 = ["", "", "", "", ""]
 def openfile():
     # Store all dictionary words inside this array.
     # All potential wordle 5 letter words.
-    with open("/Users/thomas/Desktop/Projects/WordleSolver/wordle-list", "r") as wordlist:
+    with open("/YOUR_DIRECTORY_HERE", "r") as wordlist:
         for line in wordlist:
             fiveletterwords.append(line.rstrip('\n'))
 
