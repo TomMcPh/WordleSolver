@@ -5,7 +5,7 @@ I decided that I would not look at how anyone else had completed their solver un
 Due to future projects, I am leaving my solver as is, sitting at **rank 270th**<br/> 
 
 The accuracy of the solver is ~99.52%, (2304/2315) <br/> 
-(This number fluctuates between (2302/2315, due to the 6th guess last attempt sometimes being a guess.)<br/> 
+(The correct guess number fluctuates between (2302-2315, due to the 6th guess last attempt sometimes being a guess.)<br/> 
 Wordle's solved in first guess: **7**<br/> 
 Wordle's solved in first two guesses: **159**<br/> 
 Wordle's solved in first three guesses: **668**<br/> 
