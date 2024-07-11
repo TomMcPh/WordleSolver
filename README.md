@@ -15,7 +15,7 @@ Wordle's solved in six guesses: **41**<br/>
 Wordle's unsolvable: **11**<br/> 
 The average guess: **3.68**<br/> 
 
-This code is ready to be directly developed with a webscraper or grep tool, in order to run of the nytimes website. <br/> 
+This code is ready to be directly developed with a webscraper or grep tool, in order to run off the nytimes website. <br/> 
 For now however, a word must be entered as the final word, and the computer will try and guess it. This just needs to be altered with the webscraper.<br/> 
 
 Guesses are as followed:<br/> 
